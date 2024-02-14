@@ -1,0 +1,17 @@
+ body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+ .mainDiv{
+    background-color: antiquewhite;
+    width: 30%;
+    height: 300px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 100px;
+}
+ .que{
+    background-color: rgb(173, 208, 222);
+}
